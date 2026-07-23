@@ -27,7 +27,6 @@ public class Task4 {
 
         return max;
     }
-
     public static void main(String[] args) {
         // Sample array of n integers
         int[] numbers = {12, 45, 93, 7, 34, 88};
